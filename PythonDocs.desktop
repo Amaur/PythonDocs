@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Docs for Python
+Exec=qmlscene $@ Main.qml
+Icon=python.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

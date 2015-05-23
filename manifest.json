@@ -1,0 +1,15 @@
+{
+    "name": "pythondocs.maur",
+    "description": "description of PythonDocs",
+    "architecture": "all",
+    "title": "Docs-for-Python",
+    "hooks": {
+        "PythonDocs": {
+            "apparmor": "PythonDocs.apparmor",
+            "desktop": "PythonDocs.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Maurice Ainon < am.amauri@outlook.com>",
+    "framework": "ubuntu-sdk-15.04"
+}
